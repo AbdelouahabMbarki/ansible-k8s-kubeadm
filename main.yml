@@ -1,0 +1,5 @@
+---
+- import_playbook: playbooks/initial.yml
+- import_playbook: playbooks/kube-dependencies.yml
+- import_playbook: playbooks/master.yml
+- import_playbook: workers.yml
