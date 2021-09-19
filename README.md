@@ -1,4 +1,4 @@
-# Ansible-based Kubernetes cluster instalation with Kubeadm
+# Ansible-based Kubernetes cluster installation with Kubeadm
 This is a Kubernetes cluster installation using Ansible and Kubeadm .
 
 ## Quick Start Guide
